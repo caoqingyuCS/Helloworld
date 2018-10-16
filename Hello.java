@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Hello {
     public static void main(String[] args){
         //Please do not copy
+        //Be yourself
         // Input variables
         String name;
         String age;
